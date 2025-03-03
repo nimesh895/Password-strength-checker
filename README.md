@@ -1,5 +1,4 @@
 # Password-strength-checker
-# Password Strength Checker
 
 A Python-based tool that evaluates the strength of passwords and estimates how long it would take to crack the password using brute-force methods. This project helps users assess their passwords’ security and provides feedback on how to improve them.
 
